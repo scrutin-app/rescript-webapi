@@ -16,6 +16,13 @@
       "type": "dev"
     }
   ],
+  "suffix": ".bs.js",
+  "package-specs": [
+    {
+      "module": "es6",
+      "in-source": true
+    }
+  ],
   "warnings": {
     "number": "+A",
     "error": "+A"
